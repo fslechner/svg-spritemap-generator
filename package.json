@@ -13,13 +13,14 @@
     "dist/spritemap.svg"
   ],
   "scripts": {
-    "start": "webpack --mode production"
+    "start": "rimraf ./dist && webpack --mode production"
   },
   "dependencies": {
     "svg-spritemap-webpack-plugin": "^3.3.7",
     "webpack": "^4.36.1"
   },
   "devDependencies": {
+    "rimraf": "^2.6.3",
     "webpack-cli": "^3.3.6"
   }
 }
