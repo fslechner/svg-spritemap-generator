@@ -10,7 +10,7 @@
 
 - [Material Icons](https://material.io/tools/icons/?style=baseline)
 - [Ionicons](https://ionicons.com/)
-- [Octiocons](https://octicons.github.com/)
+- [Octicons](https://octicons.github.com/)
 - [Typicons](https://www.s-ings.com/typicons/)
 - [ICONSVG](https://iconsvg.xyz/)
 - [Visualpharm](https://www.visualpharm.com/)
