@@ -1,0 +1,25 @@
+{
+  "name": "svg-spritemap-generator",
+  "version": "0.0.1",
+  "description": "Generate SVG-Spritemaps of your desired SVG-Icons",
+  "author": "Frank Simon Lechner",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fsl0110/nova-demo.git"
+  },
+  "main": "dist/spritemap.svg",
+  "files": [
+    "dist/spritemap.svg"
+  ],
+  "scripts": {
+    "start": "webpack --mode production"
+  },
+  "dependencies": {
+    "svg-spritemap-webpack-plugin": "^3.3.7",
+    "webpack": "^4.36.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.6"
+  }
+}
