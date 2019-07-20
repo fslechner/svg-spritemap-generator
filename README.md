@@ -3,6 +3,7 @@
 Based on [SVG Spritemap Webpack Plugin](https://github.com/cascornelissen/svg-spritemap-webpack-plugin) and [Webpack](https://github.com/webpack)
 
 **Generate SVG-Spritemaps of your desired SVG-Icons**
+
 Use your own created SVG-Icons or icons of one of the SVG-Icon-Sets linked below. But use exactly those icons you need for your Project combined in one spritemap.
 
 1. Put your \*.svg icons into src/icons folder.
